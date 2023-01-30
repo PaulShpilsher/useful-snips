@@ -1,5 +1,6 @@
 /**
  * Swap two values using destructuring
+ * [x, y] = [y, x];
  */
 
 let x = "foo";

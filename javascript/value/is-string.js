@@ -1,5 +1,5 @@
 /**
- * Is string
+ * Is a string
  */
 const isString = (value) => typeof value === 'string';
 

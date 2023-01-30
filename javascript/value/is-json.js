@@ -1,5 +1,6 @@
 /**
- * Is valid JSON string
+ * Is the string a valid JSON
+ * 
  * @param {string} json a string to test
  * @returns true/falss
  */

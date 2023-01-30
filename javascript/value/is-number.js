@@ -1,5 +1,5 @@
 /**
- * Is number
+ * Is a number
  */
 const isNumber = (value) => !isNaN(parseFloat(value)) && isFinite(value);
 

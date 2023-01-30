@@ -1,5 +1,6 @@
 /**
- * Check if the String Is a Palindrome
+ * Is the string a palindrome
+ * 
  * @param {string} value 
  * @returns true/false
  */
