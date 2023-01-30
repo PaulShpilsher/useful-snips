@@ -1,6 +1,6 @@
 /**
  * Is valid JSON string
- * @param {*} json string to test
+ * @param {string} json a string to test
  * @returns true/falss
  */
 const isJSON = (json) => {
