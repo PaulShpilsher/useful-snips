@@ -1,6 +1,5 @@
 /**
- * Get distinct (unique values) from array
- *
+ * Get distinct (unique) values from array
  */
 
 const distinct = (arr) => [...new Set(arr)];
