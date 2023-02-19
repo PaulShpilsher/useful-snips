@@ -1,9 +1,9 @@
-/** 
+/**
  * An awaitable sleep / pause
  */
 const sleep = async (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-// sample usage
+// example
 (async () => {
-    await sleep(3000); 
+  await sleep(3000);
 })();
